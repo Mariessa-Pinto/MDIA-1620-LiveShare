@@ -4,6 +4,11 @@ In Class Assignment
 ## Students
 Mariessa Pinto
 
+## Programming Languages
+1. Javascript
+
+## Description
+In class examples/exercises.
 
 ### Folders 
 
